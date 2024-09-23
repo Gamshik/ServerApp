@@ -1,0 +1,15 @@
+D:\a\ServerApp\ServerApp\app\DbAccess\bin\Release\net8.0\linux-x64\DbAccess.deps.json
+D:\a\ServerApp\ServerApp\app\DbAccess\bin\Release\net8.0\linux-x64\DbAccess.runtimeconfig.json
+D:\a\ServerApp\ServerApp\app\DbAccess\bin\Release\net8.0\linux-x64\DbAccess.dll
+D:\a\ServerApp\ServerApp\app\DbAccess\bin\Release\net8.0\linux-x64\DbAccess.pdb
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\DbAccess.csproj.AssemblyReference.cache
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\DbAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\DbAccess.AssemblyInfoInputs.cache
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\DbAccess.AssemblyInfo.cs
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\DbAccess.csproj.CoreCompileInputs.cache
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\DbAccess.sourcelink.json
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\DbAccess.dll
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\refint\DbAccess.dll
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\DbAccess.pdb
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\DbAccess.genruntimeconfig.cache
+D:\a\ServerApp\ServerApp\app\DbAccess\obj\Release\net8.0\linux-x64\ref\DbAccess.dll
