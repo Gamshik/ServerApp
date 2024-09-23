@@ -150,7 +150,7 @@ namespace WebServer.Config
                                   foundCarsHtmlTable = GetCarsTable(foundCarsByRegisterNumber);
                                   break;
                           }
-                      } 
+                      }
                       else context.Request.Cookies.TryGetValue(OPTION_QUERY_NAME, out cookieOption);
 
                       if (string.IsNullOrEmpty(requestedValue)) context.Request.Cookies.TryGetValue(VALUE_QUERY_NAME, out cookieValue);
@@ -166,11 +166,11 @@ namespace WebServer.Config
                         <form action='/searchform1' method='get'>
                             <input type='text' name='{VALUE_QUERY_NAME}' placeholder='Search' value='" + (isHaveRequestedValue ? requestedValue : cookieValue) + @$"'>
                             <select name='{OPTION_QUERY_NAME}'>
-                                <option value='{CAR_BRAND_OPTION_NAME}' " 
-                                + (isBrandSelected ? "selected" : "") 
+                                <option value='{CAR_BRAND_OPTION_NAME}' "
+                                + (isBrandSelected ? "selected" : "")
                                 + @$">Brand</option>
-                                <option value='{CAR_REGISTER_NUMBER_OPTION_NAME}' " 
-                                + (isRegistrationNumberSelected ? "selected" : "") 
+                                <option value='{CAR_REGISTER_NUMBER_OPTION_NAME}' "
+                                + (isRegistrationNumberSelected ? "selected" : "")
                                 + @$">Registration number</option>
                             </select>
                             <button type='submit'>Search</button>
